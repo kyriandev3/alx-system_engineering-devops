@@ -1,1 +1,1 @@
-Task 0 ALX
+This directory explores the basics of shell
